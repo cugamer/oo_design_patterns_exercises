@@ -11,4 +11,5 @@ Design patterns are part of this second area.  Patterns organize code guided by 
 * [Cold Slab Creamery Ice Cream decorator pattern](https://github.com/cugamer/dp_decorator_pattern_ice_cream)
 * [Car Sales Lot simple factory design convention](https://github.com/cugamer/dp_simple_factory_cars)
 * [Outdoor Gear factory method pattern](https://github.com/cugamer/dp_factory_method_outdoor_gear)
-* [Roleplaying Equipment abstract factory pattern](https://github.com/cugamer/dp_abstract_factory_rp_characters/blob/master/README.md)
+* [Roleplaying Equipment abstract factory pattern](https://github.com/cugamer/dp_abstract_factory_rp_characters)
+* [Current User Online singleton pattern](https://github.com/cugamer/dp_singleton_users_online)
