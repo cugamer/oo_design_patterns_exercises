@@ -15,3 +15,4 @@ Design patterns are part of this second area.  Patterns organize code guided by 
 * [Current User Online singleton pattern](https://github.com/cugamer/dp_singleton_users_online)
 * [Measurement Taking command pattern](https://github.com/cugamer/dp_command_pattern_measurement_taking)
 * [Airplanes strategy pattern](https://github.com/cugamer/dp_strategy_airplanes)
+* [Vendor Locations observer design pattern](https://github.com/cugamer/dp_observer_vendor_locations)
