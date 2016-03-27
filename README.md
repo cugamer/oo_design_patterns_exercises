@@ -17,3 +17,4 @@ Design patterns are part of this second area.  Patterns organize code guided by 
 * [Airplanes strategy pattern](https://github.com/cugamer/dp_strategy_airplanes)
 * [Vendor Locations observer design pattern](https://github.com/cugamer/dp_observer_vendor_locations)
 * [Vehicles preparation template method pattern](https://github.com/cugamer/dp_template_method_vehicles/tree/master)
+* [Zoo Animals Listing iterator pattern](https://github.com/cugamer/dp_iterator_zoo_animals)
